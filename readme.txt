@@ -27,4 +27,8 @@ Plugin Homepage: <a href="http://www.bloghighlight.com/wordpress-plugins/no-dupl
 
 == Frequently Asked Questions ==
 
+N/A.
+
 == Screenshots ==
+
+N/A.
